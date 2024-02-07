@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387180319206",
+    "project_id": "kadyrchat",
+    "storage_bucket": "kadyrchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387180319206:android:18c20177b5d6f67ed88627",
+        "android_client_info": {
+          "package_name": "com.example.kadyrchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAic1PvAa7-n3L_TFsQcpNcN0USwOm4Q4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
